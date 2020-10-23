@@ -35,7 +35,7 @@ in a test-driven environment.
 - Deployment on Heroku;
 
 ## 🗝 Skills:
-- Microsoft Office (Word, nExcel, Powerpoint);
+- Microsoft Office (Word, Excel, Powerpoint);
 - Adobe Suite (Photoshop, Illustrator, InDesign, Lightroom);
 
 <!--
