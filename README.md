@@ -1,10 +1,8 @@
 ### Hi I'm Hristian 👋🤵🏻
 
-I am a passionate full-stack
-developer with robust
-problem-solving skills. I have
-experience in creating and
-designing web-applications
+I am a trained architect and a passionate full-stack
+developer with robust problem-solving skills. I have
+experience in creating and designing web-applications
 in a test-driven environment.
 
 ## 💐 Projects:
