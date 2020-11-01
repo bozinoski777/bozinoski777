@@ -5,19 +5,23 @@ developer with robust problem-solving skills. I have
 experience in creating and designing web-applications
 in a test-driven environment.
 
-# 💐 Projects:
-## Berlin Architecture Network:
+## 💐 Projects:
+# 🏗️ Berlin Architecture Network:
 - Live Demo: http://berlinarchnet.herokuapp.com/
 - Repository: https://github.com/MariaBraganca/ban-berlinarchnet
+- Specialty: Colaboration on the same codebase with 3 other people.
 
-## Kaleidoscope Tunnel Accenture Coding Challange:
-- Live Demo: http://accenture-challange-hris.herokuapp.com/
-- Repository: https://github.com/bozinoski777/accenture_challange
-
-## 🔭 I’m currently working on:
-### Mr. Cocktail:
+# 🍸 Mr. Cocktail:
 - Live Demo: https://the-rails-bar.herokuapp.com/
 - Repository: https://github.com/bozinoski777/rails-mister-cocktail
+- Specialty: Test Driven Development with Rspec and Capybara.
+
+# 🎨 Kaleidoscope Tunnel Accenture Coding Challange:
+- Live Demo: http://accenture-challange-hris.herokuapp.com/
+- Repository: https://github.com/bozinoski777/accenture_challange
+- Specialty: Creation of a creative JavaScript-powered experience.
+
+<!-- ## 🔭 I’m currently working on: -->
 
 ## 🌱 I’m currently learning:
  - React
