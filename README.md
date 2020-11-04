@@ -24,7 +24,7 @@ experience in a coding bootcamp.
 
 ## 🔭 I’m currently working on:
  ### A TDD Rails/React Online Store With Stripe Integration (Spree)
- - Repository: https://github.com/bozinoski777/online_store
+ - Repository: https://github.com/bozinoski777/rails_online_store
 
 ## 🌱 I’m currently learning:
  - React
