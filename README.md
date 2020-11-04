@@ -21,8 +21,11 @@ in a test-driven environment.
 - Repository: https://github.com/bozinoski777/accenture_challange
 - Specialty: Creation of a creative JavaScript-powered experience.
 
-<!-- ## 🔭 I’m currently working on: -->
-
+## 🔭 I’m currently working on:
+ - A TDD Rails/React Online Store With Stripe Integration
+ - Repository: https://github.com/bozinoski777/tdd_online_store_stripe
+ - DB: 
+ 
 ## 🌱 I’m currently learning:
  - React
  - AWS Deployment
