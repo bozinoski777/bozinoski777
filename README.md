@@ -23,7 +23,7 @@ experience in a coding bootcamp.
 - Specialty: Creation of a creative JavaScript-powered experience.
 
 ## 🔭 I’m currently working on:
- - A TDD Rails/React Online Store With Stripe Integration (Spree)
+ ### A TDD Rails/React Online Store With Stripe Integration (Spree)
  - Repository: https://github.com/bozinoski777/online_store
 
 ## 🌱 I’m currently learning:
