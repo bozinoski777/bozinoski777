@@ -22,10 +22,9 @@ in a test-driven environment.
 - Specialty: Creation of a creative JavaScript-powered experience.
 
 ## 🔭 I’m currently working on:
- - A TDD Rails/React Online Store With Stripe Integration
- - Repository: https://github.com/bozinoski777/tdd_online_store_stripe
- - DB: 
- 
+ - A TDD Rails/React Online Store With Stripe Integration (Spree)
+ - Repository: https://github.com/bozinoski777/online_store
+
 ## 🌱 I’m currently learning:
  - React
  - AWS Deployment
