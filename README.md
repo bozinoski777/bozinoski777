@@ -1,50 +1,46 @@
 ### Hi I'm Hristian 🤵🏻
 
-I am a trained architect and a passionate full-stack
-developer with robust problem-solving skills. I have
-experience in creating and designing web-applications
-in a test-driven environment as well as teacher-assisting
-experience in a coding bootcamp.
+Assisting coding boot-camp students on their full-stack track. Passionate full-stack developer. Precise technical communicator. Skilled problem-solver. Experienced in creating and designing web-applications in a test-driven environment.
 
-## 💐 Projects:
-# 🏗️ Berlin Architecture Network:
+💐 Projects:
+## 🏗️ Berlin Architecture Network:
 - Live Demo: http://berlinarchnet.herokuapp.com/
 - Repository: https://github.com/MariaBraganca/ban-berlinarchnet
 - Specialty: SCRUM collaboration on the same code base in a team of 3 other people.
 
-# 🍸 The Rails Bar:
+## 🍸 The Rails Bar:
 - Live Demo: https://the-rails-bar.herokuapp.com/
 - Repository: https://github.com/bozinoski777/the-rails-bar
 - Specialty: Test Driven Development with Rspec and Capybara.
 
-# 🎨 Kaleidoscope Tunnel Accenture Coding Challange:
+## 🎨 Kaleidoscope Tunnel Accenture Coding Challange:
 - Live Demo: http://accenture-challange-hris.herokuapp.com/
 - Repository: https://github.com/bozinoski777/accenture_challange
 - Specialty: Creation of a creative JavaScript-powered experience.
 
-## 🔭 I’m currently working on:
- ### TDD Rails/React Online Store With Stripe Integration (Spree)
- - Repository: https://github.com/bozinoski777/rails_online_store
+🔭 I’m currently working on:
+## TDD Rails/React Online Store With Stripe Integration (Spree)
+- Repository: https://github.com/bozinoski777/rails_online_store
+- Live Demo: ec2-3-122-226-68.eu-central-1.compute.amazonaws.com:3003
 
 ## 🌱 I’m currently learning:
- - React
- - AWS Deployment
+- React,
+- AWS Deployment;
  
 ## 🕹 Tools:
-- Ruby on Rails;
-- MVC Architecture;
-- APIs, JSON, scraping;
-- Relational databases, SQL, Postgres;
-- HTML, SCSS/CSS, Bootstrap;
-- ES6 Javascript;
-- Wireframes, prototyping, UI design;
-- Test Driven Development, RSpec, Capybara;
-- Git, Github, technical workflow;
-- Deployment on Heroku;
-
-## 🗝 Skills:
-- Microsoft Office (Word, Excel, Powerpoint);
-- Adobe Suite (Photoshop, Illustrator, InDesign, Lightroom);
+- Ruby (Native coding language),
+- Rails (MVC Architecture),
+- Test Driven Development (RSpec and Capybara),
+- ES6 Javascript (Front-end dynamic design),
+- APIs, JSON, scraping (Static and dynamic websites),
+- SQL, Postgresql (Plain SQL and Active Record),
+- HTML, SCSS, Bootstrap (Front-end design),
+- Deployment on AWS (EC2, Linux/UNIX, RDS),
+- Deployment on Heroku (CLI),
+- Prototyping, UI design (Figma),
+- Adobe Suite (Photoshop, Illustrator, InDesign),
+- Git, GitHub (Teamwork),
+- Microsoft Office (Word, Office, Excel);
 
 <!--
 **bozinoski777/bozinoski777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
