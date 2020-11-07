@@ -2,33 +2,34 @@
 
 Assisting coding boot-camp students on their full-stack track. Passionate full-stack developer. Precise technical communicator. Skilled problem-solver. Experienced in creating and designing web-applications in a test-driven environment.
 
-### 💐 Projects:
+## 💐 Projects:
 
-## 🏗️ Berlin Architecture Network:
+### 🏗️ Berlin Architecture Network:
 - Live Demo: http://berlinarchnet.herokuapp.com/
 - Repository: https://github.com/MariaBraganca/ban-berlinarchnet
 - Specialty: SCRUM collaboration on the same code base in a team of 3 other people.
 
-## 🍸 The Rails Bar:
+### 🍸 The Rails Bar:
 - Live Demo: https://the-rails-bar.herokuapp.com/
 - Repository: https://github.com/bozinoski777/the-rails-bar
 - Specialty: Test Driven Development with Rspec and Capybara.
 
-## 🎨 Kaleidoscope Tunnel Accenture Coding Challange:
+### 🎨 Kaleidoscope Tunnel Accenture Coding Challange:
 - Live Demo: http://accenture-challange-hris.herokuapp.com/
 - Repository: https://github.com/bozinoski777/accenture_challange
 - Specialty: Creation of a creative JavaScript-powered experience.
 
-### 🔭 I’m currently working on:
-## TDD Rails/React Online Store With Stripe Integration (Spree)
+## 🔭 I’m currently working on:
+
+### TDD Rails/React Online Store With Stripe Integration (Spree)
 - Repository: https://github.com/bozinoski777/rails_online_store
 - Live Demo: ec2-3-122-226-68.eu-central-1.compute.amazonaws.com:3003
 
-## 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 - React,
 - AWS Deployment;
  
-## 🕹 Tools:
+### 🕹 Tools:
 - Ruby (Native coding language),
 - Rails (MVC Architecture),
 - Test Driven Development (RSpec and Capybara),
