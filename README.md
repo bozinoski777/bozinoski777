@@ -2,7 +2,8 @@
 
 Assisting coding boot-camp students on their full-stack track. Passionate full-stack developer. Precise technical communicator. Skilled problem-solver. Experienced in creating and designing web-applications in a test-driven environment.
 
-💐 Projects:
+### 💐 Projects:
+
 ## 🏗️ Berlin Architecture Network:
 - Live Demo: http://berlinarchnet.herokuapp.com/
 - Repository: https://github.com/MariaBraganca/ban-berlinarchnet
@@ -18,7 +19,7 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 - Repository: https://github.com/bozinoski777/accenture_challange
 - Specialty: Creation of a creative JavaScript-powered experience.
 
-🔭 I’m currently working on:
+### 🔭 I’m currently working on:
 ## TDD Rails/React Online Store With Stripe Integration (Spree)
 - Repository: https://github.com/bozinoski777/rails_online_store
 - Live Demo: ec2-3-122-226-68.eu-central-1.compute.amazonaws.com:3003
