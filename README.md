@@ -10,11 +10,11 @@ experience in a coding bootcamp.
 # 🏗️ Berlin Architecture Network:
 - Live Demo: http://berlinarchnet.herokuapp.com/
 - Repository: https://github.com/MariaBraganca/ban-berlinarchnet
-- Specialty: Colaboration on the same codebase with 3 other people.
+- Specialty: SCRUM collaboration on the same code base in a team of 3 other people.
 
-# 🍸 Mr. Cocktail:
+# 🍸 The Rails Bar:
 - Live Demo: https://the-rails-bar.herokuapp.com/
-- Repository: https://github.com/bozinoski777/rails-mister-cocktail
+- Repository: https://github.com/bozinoski777/the-rails-bar
 - Specialty: Test Driven Development with Rspec and Capybara.
 
 # 🎨 Kaleidoscope Tunnel Accenture Coding Challange:
