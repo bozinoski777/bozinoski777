@@ -26,8 +26,7 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 - Live Demo: ec2-3-122-226-68.eu-central-1.compute.amazonaws.com:3003
 
 ### 🌱 I’m currently learning:
-- React,
-- AWS Deployment;
+- React
  
 ### 🕹 Tools:
 - Ruby (Native coding language),
