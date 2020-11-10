@@ -19,16 +19,16 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 - Repository: https://github.com/bozinoski777/accenture_challange
 - Specialty: Creation of a creative JavaScript-powered experience.
 
-## 🔭 I’m currently working on:
+## 🌱 I’m currently working on:
 
-### TDD Rails/React Online Store With Stripe Integration (Spree)
+### 🧺 AWS TDD Rails React Stripe Integration Online Store (Spree)
 - Repository: https://github.com/bozinoski777/rails_online_store
 - Live Demo: http://ec2-18-195-1-27.eu-central-1.compute.amazonaws.com/
 
-### 🌱 I’m currently learning:
+### 🔭 I’m currently learning:
 - React
  
-### 🕹 Tools:
+### 🤖 Tools:
 - Ruby (Native coding language),
 - Rails (MVC Architecture),
 - Test Driven Development (RSpec and Capybara),
