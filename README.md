@@ -4,19 +4,16 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 
 ## 💐 Projects:
 
-### 🏗️ Berlin Architecture Network:
+### 🏗️ [Berlin Architecture Network:](https://github.com/MariaBraganca/ban-berlinarchnet)
 - Live Demo: http://berlinarchnet.herokuapp.com/
-- Repository: https://github.com/MariaBraganca/ban-berlinarchnet
 - Specialty: SCRUM collaboration on the same code base in a team of 3 other people.
 
-### 🍸 The Rails Bar:
+### 🍸 [The Rails Bar:](https://github.com/bozinoski777/the-rails-bar)
 - Live Demo: https://the-rails-bar.herokuapp.com/
-- Repository: https://github.com/bozinoski777/the-rails-bar
 - Specialty: Test Driven Development with Rspec and Capybara.
 
-### 🎨 Kaleidoscope Tunnel Accenture Coding Challange:
+### 🎨 [Kaleidoscope Tunnel Accenture Coding Challange:](https://github.com/bozinoski777/accenture_challange)
 - Live Demo: http://accenture-challange-hris.herokuapp.com/
-- Repository: https://github.com/bozinoski777/accenture_challange
 - Specialty: Creation of a creative JavaScript-powered experience.
 
 ## 🌱 I’m currently working on:
