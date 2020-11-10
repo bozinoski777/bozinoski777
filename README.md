@@ -5,21 +5,20 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 ## 💐 Projects:
 
 ### 🏗️ [Berlin Architecture Network:](https://github.com/MariaBraganca/ban-berlinarchnet)
+- SCRUM collaboration on the same code base in a team of 3 other people;
 - Live Demo: http://berlinarchnet.herokuapp.com/
-- Specialty: SCRUM collaboration on the same code base in a team of 3 other people.
 
 ### 🍸 [The Rails Bar:](https://github.com/bozinoski777/the-rails-bar)
+- Test Driven Development with Rspec and Capybara;
 - Live Demo: https://the-rails-bar.herokuapp.com/
-- Specialty: Test Driven Development with Rspec and Capybara.
 
 ### 🎨 [Kaleidoscope Tunnel Accenture Coding Challange:](https://github.com/bozinoski777/accenture_challange)
+- Creative JavaScript-powered UI experience;
 - Live Demo: http://accenture-challange-hris.herokuapp.com/
-- Specialty: Creation of a creative JavaScript-powered experience.
 
 ## 🌱 I’m currently working on:
 
-### 🧺 AWS TDD Rails React Stripe Integration Online Store (Spree)
-- Repository: https://github.com/bozinoski777/rails_online_store
+### 🧺 [AWS TDD Rails React Stripe Integration Online Store (Spree):](https://github.com/bozinoski777/rails_online_store)
 - Live Demo: http://ec2-18-195-1-27.eu-central-1.compute.amazonaws.com/
 
 ### 🔭 I’m currently learning:
