@@ -19,7 +19,7 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 ## 🌱 I’m currently working on:
 
 ### 🧺 [AWS TDD Rails React Stripe Integration Online Store (Spree):](https://github.com/bozinoski777/rails_online_store)
-- Live Demo: http://ec2-18-195-1-27.eu-central-1.compute.amazonaws.com/
+- Live Demo: http://ec2-18-157-251-88.eu-central-1.compute.amazonaws.com/
 
 ## 🔭 I’m currently learning:
 - React
