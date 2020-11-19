@@ -41,7 +41,7 @@ Back End|Front End|Cloud|Design
 - APIs, JSON, scraping (Static and dynamic websites),
 - SQL, Postgresql (Plain SQL and Active Record),
 - HTML, SCSS, Bootstrap (Front-end design),
-- Deployment on AWS (EC2, Linux/UNIX, RDS),
+- Deployment on AWS (EC2, Linux/UNIX, S3),
 - Deployment With NGINX and Passenger,
 - Deployment on Heroku (CLI),
 - Prototyping, UI design (Figma),
