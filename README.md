@@ -23,6 +23,7 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 
 ## 🔭 I’m currently learning:
 - React
+- Python
  
 ## 🤖 Tools:
 
