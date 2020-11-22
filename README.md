@@ -2,7 +2,7 @@
 
 Assisting coding boot-camp students on their full-stack track. Passionate full-stack developer. Precise technical communicator. Skilled problem-solver. Experienced in creating and designing web-applications in a test-driven environment.
 
-## 💐 Projects:
+##  Projects:
 
 ### 🏗️ [Berlin Architecture Network:](https://github.com/MariaBraganca/ban-berlinarchnet)
 - SCRUM collaboration on the same code base in a team of 3 other people;
@@ -21,11 +21,12 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 ### 🧺 [AWS TDD Rails React Stripe Integration Online Store (Spree):](https://github.com/bozinoski777/rails_online_store)
 - Live Demo: http://ec2-18-157-251-88.eu-central-1.compute.amazonaws.com/
 
-## 🔭 I’m currently learning:
+##  I’m currently learning:
 - React
 - Python
+- AWS Cloud Pratcitioner Essentials
  
-## 🤖 Tools:
+##  Tools:
 
 Back End|Front End|Cloud|Design
 ------------ | ------------- | ------------- | -------------
