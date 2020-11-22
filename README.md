@@ -21,13 +21,7 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 ### 🧺 [AWS TDD Rails React Stripe Online Store (Spree):](https://github.com/bozinoski777/rails_online_store)
 - Live Demo: http://ec2-18-157-251-88.eu-central-1.compute.amazonaws.com/
 
-##  I’m currently learning:
-- React
-- Python
-- AWS Cloud Pratcitioner Essentials
- 
 ##  Tools:
-
 Back End|Front End|Cloud|Design
 ------------ | ------------- | ------------- | -------------
 ![Ruby Icon](https://res.cloudinary.com/dj9iphc8u/image/upload/v1605090790/Icons/ruby_qdiu3d.png) | ![ES6 Javascript](https://res.cloudinary.com/dj9iphc8u/image/upload/v1605090789/Icons/javascript_kwwhup.png) | ![Heroku](https://res.cloudinary.com/dj9iphc8u/image/upload/v1605090789/Icons/heroku_clnawy.png) | ![Figma](https://res.cloudinary.com/dj9iphc8u/image/upload/v1605090789/Icons/figma_ot6qlf.png) 
@@ -51,7 +45,11 @@ Back End|Front End|Cloud|Design
 - Git, GitHub (Teamwork),
 - Microsoft Office (Word, Office, Excel);
 
-
+##  I’m currently learning:
+- React
+- Python
+- AWS Cloud Pratcitioner Essentials
+ 
 <!--
 **bozinoski777/bozinoski777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
