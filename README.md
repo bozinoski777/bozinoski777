@@ -16,6 +16,10 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 - Creative JavaScript-powered UI experience;
 - Live Demo: http://accenture-challange-hris.herokuapp.com/
 
+### 👾 [My CV as a REST API](https://github.com/bozinoski777/cv_bozinoski_API)
+- Python and Django REST Framework;
+- Live Demo: https://api-bozinoski-cv.herokuapp.com/
+
 ##  I’m currently working on:
 
 ### 🧺 [AWS TDD Rails React Stripe Online Store (Spree):](https://github.com/bozinoski777/rails_online_store)
@@ -32,6 +36,8 @@ Back End|Front End|Cloud|Design
 
 - Ruby (Native coding language),
 - Rails (MVC Architecture),
+- Python (Sechond coding language),
+- Django REST API (API Framework),
 - Test Driven Development (RSpec and Capybara),
 - ES6 Javascript (Front-end dynamic design),
 - APIs, JSON, scraping (Static and dynamic websites),
