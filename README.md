@@ -55,7 +55,7 @@ Back End|Front End|Cloud|Design
 - React
 - Python
 - AWS Cloud Pratcitioner Essentials
-
+  
 ##  How to reach me:
 - Email: konten.bozinoski@gmail.com
 - Linkedin: linkedin.com/in/bozinoski/
