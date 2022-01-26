@@ -1,6 +1,6 @@
 ### Hi I'm Hristian 🤵🏻
 
-Assisting coding boot-camp students on their full-stack track. Passionate full-stack developer. Precise technical communicator. Skilled problem-solver. Experienced in creating and designing web-applications in a test-driven environment.
+Passionate full-stack developer. Precise technical communicator. Skilled problem-solver. Experienced in creating and designing web-applications in a test-driven environment.
 
 ##  Projects:
 
@@ -20,11 +20,6 @@ Assisting coding boot-camp students on their full-stack track. Passionate full-s
 - Python and Django REST Framework;
 - Live Demo: https://api-bozinoski-cv.herokuapp.com/
 
-##  I’m currently working on:
-
-### 🧺 [AWS TDD Rails React Stripe Online Store (Spree):](https://github.com/bozinoski777/rails_online_store)
-- Live Demo: http://ec2-18-157-251-88.eu-central-1.compute.amazonaws.com/
-
 ##  Tools:
 Back End|Front End|Cloud|Design
 ------------ | ------------- | ------------- | -------------
@@ -35,6 +30,7 @@ Back End|Front End|Cloud|Design
 | | ![Bootstrap](https://res.cloudinary.com/dj9iphc8u/image/upload/v1605090789/Icons/bootstrap_cjocnn.png) | ![NGINX](https://res.cloudinary.com/dj9iphc8u/image/upload/v1605090789/Icons/nginx_shrqpo.png) 
 
 - Ruby (Native coding language),
+- JAVA SE 8 Certified,
 - Rails (MVC Architecture),
 - Python (Sechond coding language),
 - Django REST API (API Framework),
@@ -53,8 +49,6 @@ Back End|Front End|Cloud|Design
 
 ##  I’m currently learning:
 - React
-- Python
-- AWS Cloud Pratcitioner Essentials
   
 ##  How to reach me:
 - Email: konten.bozinoski@gmail.com
